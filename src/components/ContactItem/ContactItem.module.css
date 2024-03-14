@@ -1,0 +1,26 @@
+.item {
+  margin-bottom: 20px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.description {
+  padding: 20px;
+  font-size: 20px;
+}
+
+.button {
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #a09ba1;
+}

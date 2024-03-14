@@ -1,0 +1,17 @@
+.heading {
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.input {
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+  font-size: 16px;
+  display: block;
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  width: 350px;
+}
